@@ -1,7 +1,5 @@
-<<<<<<< HEAD
-# filesharing-app
 A file transfer app
-=======
+
 # Quick - Local File Transfer Application
 
 Quick is a fast and secure file transfer application that allows seamless file sharing between devices over a local network.
