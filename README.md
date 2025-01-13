@@ -68,4 +68,3 @@ For support, please open an issue in the repository or contact the maintainers.
 ## Security
 
 This application operates on local networks only. However, please ensure your network is secure before transferring sensitive files.
->>>>>>> 137aa47 (Basic template & directory)
