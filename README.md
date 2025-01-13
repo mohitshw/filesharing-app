@@ -13,11 +13,13 @@ Quick is a fast and secure file transfer application that allows seamless file s
 - **Multiple File Support**: Transfer multiple files simultaneously
 - **User-Friendly Interface**: Simple and intuitive design
 
+![alt text](public/picture.png)
+
 ## Installation
 
 1. Clone the repository:
 ```bash
-git clone <repository-url>
+git clone https://github.com/mohitshw/filesharing-app
 ```
 
 2. Install dependencies:
