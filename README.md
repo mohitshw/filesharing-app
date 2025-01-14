@@ -49,7 +49,7 @@ npm start
 - **Build Tools**: Electron Builder, Vite
 
 ## System Requirements
-
+=
 - Node.js 14.0 or higher
 - Compatible operating system (Windows, macOS, Linux)
 - Local network connection between devices
